@@ -1,0 +1,12 @@
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe.config
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.exe
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\bin\Debug\Lab3_Demo.pdb
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.AssemblyReference.cache
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.SuggestedBindingRedirects.cache
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmSinhVien.resources
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.Properties.Resources.resources
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.GenerateResource.cache
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.csproj.CoreCompileInputs.cache
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.exe
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.pdb
+D:\AppDesktop\Lab3_Demo\Lab3_Demo\obj\Debug\Lab3_Demo.frmTuyChon.resources
